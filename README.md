@@ -4,13 +4,13 @@
 ### <div align="center">I'm Noah, a full-time full-stack software developer 👨‍💻 looking for a job and others to collaborate on projects with! 🚀</div>  
   
 
-- 🔭 I’m currently studying at DigitalCrafts🛠️  
+- 🔭 DigitalCrafts Gradute!🛠️  
   
 
-- 🌱 I’m currently learning React & Redux 🌀  
+- 🌱 I’m currently learning Next.js and Hydrogen 🌀  
   
 
-- ❓ Ask me about anything related to MongoDB 🍃  
+- ❓ Ask me about anything related to React 🍃  
   
 
 - ⚡ Fun fact: I'm a huge Lego nerd 🤓  
