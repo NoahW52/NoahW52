@@ -1,7 +1,7 @@
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="left" style="width: 100%" />  
   
 
-### <div align="center">I'm Noah, a full-time full-stack software developer 👨‍💻 looking for a job and others to collaborate on projects with! 🚀</div>  
+### <div align="center">I'm Noah, a full-time full-stack Web Developer 👨‍💻 looking for a job and others to collaborate on projects with! 🚀</div>  
   
 
 - 🔭 DigitalCrafts Gradute!🛠️  
